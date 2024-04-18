@@ -1,6 +1,7 @@
 # project-sem-2 
 a real time chat application in c++ with oops concepts + using socket programing '
 - we have used the concept of socket programing and some APIs for the ease of the program.
+- ![a flow chart ](C:\Users\MY\Pictures\Screenshots\Screenshot (276).png)
 ### some common terms being used :
 a.** SOCKET** :-A socket is a communications connection point (endpoint) that you can name and address in a network.
 b. **Socket programming** shows how to use socket APIs to establish communication links between remote and local processes.
