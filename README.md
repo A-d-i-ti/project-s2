@@ -1,11 +1,12 @@
 # project-sem-2 
 a real time chat application in c++ with oops concepts + using socket programing '
 - we have used the concept of socket programing and some APIs for the ease of the program.
-- ![a flow chart ](C:\Users\MY\Pictures\Screenshots\Screenshot (276).png)
+- ![Screenshot (276)](https://github.com/A-d-i-ti/project-s2/assets/142913419/7cb23981-9537-473c-8e30-3aca189d7042)
+
 ### some common terms being used :
-a.** SOCKET** :-A socket is a communications connection point (endpoint) that you can name and address in a network.
-b. **Socket programming** shows how to use socket APIs to establish communication links between remote and local processes.
-c. **vector** -vector class is a class template for sequence containers. A vector stores elements of a given type in a linear arrangement.
+a.**SOCKET** :-A socket is a communications connection point (endpoint) that you can name and address in a network.
+b.**Socket programming** shows how to use socket APIs to establish communication links between remote and local processes.
+c.**vector** -vector class is a class template for sequence containers. A vector stores elements of a given type in a linear arrangement.
 d.**thread** -Multithreading is a feature that allows concurrent execution of two or more parts of a program for maximum utilization of the CPU.
 
 
